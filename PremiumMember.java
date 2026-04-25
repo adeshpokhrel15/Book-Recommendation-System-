@@ -13,7 +13,7 @@ public class PremiumMember extends LibraryUser {
             deductPoints(10);
             System.out.println("Premium penalty: Keep up with reading. -10 points");
         }
-        System.out.println("Current point: " + getPoints());
+        System.out.println("Current points: " + getPoints());
     }
 
     @Override
