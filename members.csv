@@ -1,6 +1,0 @@
-id,name,email,memberType,booksRead,points,preferredGenre
-1,Adesh Sharma,adesh@example.com,standard,12,95,Fiction
-2,Samir Bhandari,samir@example.com,premium,14,55,Science
-3,Dipesh Khadka,dipesh@example.com,standard,4,20,Mystery
-4,Parisha Katuwal,parisha@example.com,premium,15,240,Fiction
-5,Bijay Sharma,bijay@example.com,standard,9,75,Science

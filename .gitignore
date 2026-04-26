@@ -1,0 +1,5 @@
+# Compiled Java files
+*.class
+
+# Runtime data
+members.csv
